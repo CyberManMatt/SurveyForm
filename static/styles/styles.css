@@ -1,0 +1,24 @@
+#logo {
+    height: 200px;
+    width: 200px;
+}
+
+#bio {
+    padding: 50px;
+}
+
+#questionnaire {
+    padding: 50px;
+}
+
+#comments {
+    padding: 50px;
+}
+
+#background-img {
+    height: 2270px;
+}
+
+#attribution {
+    text-align: center;
+}
